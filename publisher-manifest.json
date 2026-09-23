@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "faa26b5b6201b27030ff1c43",
+  "owner": "yvwunsfuc",
+  "repo": "page-2fd6ed160b681633d4a97a08",
+  "title": "Mosu",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2fd6ed160b681633d4a97a08",
+      "a": "Mosu",
+      "b": "机场官网线路发布页",
+      "entity": "Mosu",
+      "brand": "Mosu",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a8b445df3954e57676dbd34907d11326a05ced29b3a0adfdc3b5c6b2cccbff7e",
+      "content": {
+        "primary_entity": "Mosu",
+        "keyword1": "Mosu",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，Mosu 提供三档套餐，覆盖 100GB 至 1000GB 月流量与 3 到 20 台设备在线。基础版适合轻量浏览，旗舰版带 IPLC 专线游戏加速优化，团队版支持企业定制路由。订阅按客户端文档导入，周期可选月付或年付。",
+          "AI_HERO_SUBTITLE": "多设备订阅的轻量海外加速",
+          "AI_HERO_INTRO": "Mosu 面向需要跨设备使用的用户，提供基础版、旗舰版与团队版三档订阅。流量从每月 100GB 到 1000GB，在线设备数从 3 台到 20 台，可按设备数量与使用强度选择合适方案。",
+          "AI_VISUAL_TITLE": "Mosu 订阅方案一览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖轻量到团队",
+          "AI_HIGHLIGHT_2": "旗舰版带 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "年付更省，月付更灵活",
+          "AI_FEATURES_TITLE": "选择 Mosu 的三个理由",
+          "AI_FEATURES_INTRO": "从套餐流量、设备数量与订阅周期三个维度考虑，Mosu 的配置可以对应不同场景。",
+          "AI_FEATURE_TITLE_1": "按流量档位选",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按日常用量匹配。",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档在线设备数，对应单人、家庭或小团队使用。",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付折算更低，旗舰版与团队版均可按年订阅。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统适配不同客户端，按设备类型对照选择，再依客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别约 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "三步完成订阅配置",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，按步骤操作即可开始使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版、团队版中选定一个方案。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备系统与客户端，核对在线设备数是否满足当前需求。",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，打开对应客户端，粘贴订阅地址并更新节点列表。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Mosu 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备，支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中找到订阅或配置导入入口，粘贴订阅地址，保存后更新节点列表即可。不同客户端操作位置略有差异，可参考客户端文档。",
+          "AI_FAQ_QUESTION_3": "月付和年付怎么选？",
+          "AI_FAQ_ANSWER_3": "月付适合短期或试用需求，年付折算后每月支出更低。基础版年付约 ¥150，旗舰版约 ¥350，团队版约 ¥850。",
+          "AI_FAQ_QUESTION_4": "可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_4": "基础版 3 台，旗舰版 5 台，团队版 20 台同时在线。超出设备数时，可选择更高档位或减少同时在线的设备。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，适合对延迟敏感的游戏与互动场景，普通浏览也可使用其他节点池。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松开始",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量匹配合适档位，再按客户端文档导入订阅即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fcbttjt.cn",
+    "host": "fcbttjt.cn"
+  },
+  "file_hashes": {
+    "index.html": "92a2282841ba3ac9d39ee3e142807e05b6393702f242445fd444e6a88afea4b9",
+    "sitemap.xml": "12db86a5c20c145b8c798840a8c4b3cefac666d544cdce65cf8641228996644d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "57a947123119ad4a48506f860ffab8097ec1aa932440f9c4417407a98527b90a",
+    "robots.txt": "abfbbcad03cbddc1c5c43812cd8fbe3b753ce8cf445212fd427f8168da089d96",
+    "562f2b05c3040a5a575d676d20e0170e.txt": "20b050d1e30f4fcf8bd60e6f54b3610ebd079b94e938b2c66e7bf167ffafa074"
+  },
+  "revision": "31e6ef1951d352609469028170bb25c7a8076e354fe420aba804d6d2e6fb05ca"
+}
